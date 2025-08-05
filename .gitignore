@@ -1,7 +1,7 @@
-.Rproj.user
-.Rproj
-.Rhistory
-.RData
-.Ruserdata
+*.Rproj.user
+*.Rproj
+*.Rhistory
+*.RData
+*.Ruserdata
 /data-raw/
 /rsconnect/
